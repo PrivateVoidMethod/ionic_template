@@ -1,4 +1,4 @@
-# Project Title
+# Ionic Template
 
 Simple ionic template for educational purposes
 
